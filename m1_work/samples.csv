@@ -1,0 +1,7 @@
+﻿asset_id,split,label_dir,sample_role,start_time,end_time,note,review_status,reviewed_by,reviewed_at,review_note
+VID-SAFE-0_te21,test,0_safe_walkway_violation,positive,1.0,8.5,人员沿绿色安全通道区域行走,pending,,,
+VID-SAFE-0_te23,test,0_safe_walkway_violation,positive,0.5,7.0,绿背心人员沿黄色标线一侧的设备通道行走，右侧绿色通道为空,pending,,,
+VID-SAFE-4_te5,test,4_safe_walkway,similar_negative,3.8,9.8,同机位人员沿车间通道地面正常通行,pending,,,
+VID-SAFE-4_te6,test,4_safe_walkway,similar_negative,0.5,6.5,同机位人员正常通行，未进入通道标线,pending,,,
+VID-SAFE-0_te29,test,0_safe_walkway_violation,insufficient,0.0,6.5,目标过远过小，无法判读是否进入通道区域,pending,,,
+VID-SAFE-0_te16,test,0_safe_walkway_violation,insufficient,0.0,8.9,区间内未见可判读的人员目标,pending,,,

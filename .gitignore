@@ -1,0 +1,6 @@
+datasets
+__pycache__/
+*.pyc
+_tmp/
+m1_work/out/clips/
+m1_work/out/frames/

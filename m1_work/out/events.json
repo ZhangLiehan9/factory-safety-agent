@@ -1,0 +1,340 @@
+{
+  "schema_version": "1.1",
+  "generated_at": "2026-11-23T23:45:41",
+  "time_base": "original_video",
+  "total": 6,
+  "events": [
+    {
+      "event_id": "EVT-0_te21-001",
+      "schema_version": "1.1",
+      "source_id": "SAFE",
+      "asset_id": "VID-SAFE-0_te21",
+      "original_sample_id": "0_te21",
+      "split": "test",
+      "video_uri": "saferaw://test/0_safe_walkway_violation/0_te21.mp4",
+      "start_time": 1.0,
+      "end_time": 8.5,
+      "time_base": "original_video",
+      "offset_from_original": 1.0,
+      "camera_id": "CAM-UNKNOWN",
+      "area_id": "AREA-UNKNOWN",
+      "event_type": "walkway_violation",
+      "observations": [
+        "人员沿绿色安全通道区域行走"
+      ],
+      "facts": [],
+      "inferences": [],
+      "evidence_status": "insufficient",
+      "confidence": null,
+      "keyframes": [
+        {
+          "time": 1.0,
+          "actual_time": 0.9954,
+          "path": "m1_work/out/frames/VID-SAFE-0_te21/kf_0001_000.jpg",
+          "status": "ok"
+        },
+        {
+          "time": 4.75,
+          "actual_time": 4.7694,
+          "path": "m1_work/out/frames/VID-SAFE-0_te21/kf_0004_750.jpg",
+          "status": "ok"
+        },
+        {
+          "time": 8.5,
+          "actual_time": 8.502,
+          "path": "m1_work/out/frames/VID-SAFE-0_te21/kf_0008_500.jpg",
+          "status": "ok"
+        }
+      ],
+      "label_source": "dataset_label",
+      "is_simulated": false,
+      "detector": "manual_annotation",
+      "sample_role": "positive",
+      "range_source": "manual_review",
+      "insufficient_reason": "detector_not_connected",
+      "annotation_review": {
+        "status": "pending",
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "note": null
+      }
+    },
+    {
+      "event_id": "EVT-0_te23-001",
+      "schema_version": "1.1",
+      "source_id": "SAFE",
+      "asset_id": "VID-SAFE-0_te23",
+      "original_sample_id": "0_te23",
+      "split": "test",
+      "video_uri": "saferaw://test/0_safe_walkway_violation/0_te23.mp4",
+      "start_time": 0.5,
+      "end_time": 7.0,
+      "time_base": "original_video",
+      "offset_from_original": 0.5,
+      "camera_id": "CAM-UNKNOWN",
+      "area_id": "AREA-UNKNOWN",
+      "event_type": "walkway_violation",
+      "observations": [
+        "绿背心人员沿黄色标线一侧的设备通道行走，右侧绿色通道为空"
+      ],
+      "facts": [],
+      "inferences": [],
+      "evidence_status": "insufficient",
+      "confidence": null,
+      "keyframes": [
+        {
+          "time": 0.5,
+          "actual_time": 0.5217,
+          "path": "m1_work/out/frames/VID-SAFE-0_te23/kf_0000_500.jpg",
+          "status": "ok"
+        },
+        {
+          "time": 3.75,
+          "actual_time": 3.7389,
+          "path": "m1_work/out/frames/VID-SAFE-0_te23/kf_0003_750.jpg",
+          "status": "ok"
+        },
+        {
+          "time": 7.0,
+          "actual_time": 6.9995,
+          "path": "m1_work/out/frames/VID-SAFE-0_te23/kf_0007_000.jpg",
+          "status": "ok"
+        }
+      ],
+      "label_source": "dataset_label",
+      "is_simulated": false,
+      "detector": "manual_annotation",
+      "sample_role": "positive",
+      "range_source": "manual_review",
+      "insufficient_reason": "detector_not_connected",
+      "annotation_review": {
+        "status": "pending",
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "note": null
+      }
+    },
+    {
+      "event_id": "EVT-4_te5-001",
+      "schema_version": "1.1",
+      "source_id": "SAFE",
+      "asset_id": "VID-SAFE-4_te5",
+      "original_sample_id": "4_te5",
+      "split": "test",
+      "video_uri": "saferaw://test/4_safe_walkway/4_te5.mp4",
+      "start_time": 3.8,
+      "end_time": 9.8,
+      "time_base": "original_video",
+      "offset_from_original": 3.8,
+      "camera_id": "CAM-UNKNOWN",
+      "area_id": "AREA-UNKNOWN",
+      "event_type": "walkway_normal",
+      "observations": [
+        "同机位人员沿车间通道地面正常通行"
+      ],
+      "facts": [],
+      "inferences": [],
+      "evidence_status": "insufficient",
+      "confidence": null,
+      "keyframes": [
+        {
+          "time": 3.8,
+          "actual_time": 3.7854,
+          "path": "m1_work/out/frames/VID-SAFE-4_te5/kf_0003_800.jpg",
+          "status": "ok"
+        },
+        {
+          "time": 6.8,
+          "actual_time": 6.8136,
+          "path": "m1_work/out/frames/VID-SAFE-4_te5/kf_0006_800.jpg",
+          "status": "ok"
+        },
+        {
+          "time": 9.8,
+          "actual_time": 9.8021,
+          "path": "m1_work/out/frames/VID-SAFE-4_te5/kf_0009_800.jpg",
+          "status": "ok"
+        }
+      ],
+      "label_source": "dataset_label",
+      "is_simulated": false,
+      "detector": "manual_annotation",
+      "sample_role": "similar_negative",
+      "range_source": "manual_review",
+      "insufficient_reason": "detector_not_connected",
+      "annotation_review": {
+        "status": "pending",
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "note": null
+      }
+    },
+    {
+      "event_id": "EVT-4_te6-001",
+      "schema_version": "1.1",
+      "source_id": "SAFE",
+      "asset_id": "VID-SAFE-4_te6",
+      "original_sample_id": "4_te6",
+      "split": "test",
+      "video_uri": "saferaw://test/4_safe_walkway/4_te6.mp4",
+      "start_time": 0.5,
+      "end_time": 6.5,
+      "time_base": "original_video",
+      "offset_from_original": 0.5,
+      "camera_id": "CAM-UNKNOWN",
+      "area_id": "AREA-UNKNOWN",
+      "event_type": "walkway_normal",
+      "observations": [
+        "同机位人员正常通行，未进入通道标线"
+      ],
+      "facts": [],
+      "inferences": [],
+      "evidence_status": "insufficient",
+      "confidence": null,
+      "keyframes": [
+        {
+          "time": 0.5,
+          "actual_time": 0.4806,
+          "path": "m1_work/out/frames/VID-SAFE-4_te6/kf_0000_500.jpg",
+          "status": "ok"
+        },
+        {
+          "time": 3.5,
+          "actual_time": 3.4844,
+          "path": "m1_work/out/frames/VID-SAFE-4_te6/kf_0003_500.jpg",
+          "status": "ok"
+        },
+        {
+          "time": 6.5,
+          "actual_time": 6.4883,
+          "path": "m1_work/out/frames/VID-SAFE-4_te6/kf_0006_500.jpg",
+          "status": "ok"
+        }
+      ],
+      "label_source": "dataset_label",
+      "is_simulated": false,
+      "detector": "manual_annotation",
+      "sample_role": "similar_negative",
+      "range_source": "manual_review",
+      "insufficient_reason": "detector_not_connected",
+      "annotation_review": {
+        "status": "pending",
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "note": null
+      }
+    },
+    {
+      "event_id": "EVT-0_te29-001",
+      "schema_version": "1.1",
+      "source_id": "SAFE",
+      "asset_id": "VID-SAFE-0_te29",
+      "original_sample_id": "0_te29",
+      "split": "test",
+      "video_uri": "saferaw://test/0_safe_walkway_violation/0_te29.mp4",
+      "start_time": 0.0,
+      "end_time": 6.5,
+      "time_base": "original_video",
+      "offset_from_original": 0.0,
+      "camera_id": "CAM-UNKNOWN",
+      "area_id": "AREA-UNKNOWN",
+      "event_type": "walkway_violation",
+      "observations": [
+        "目标过远过小，无法判读是否进入通道区域"
+      ],
+      "facts": [],
+      "inferences": [],
+      "evidence_status": "insufficient",
+      "confidence": null,
+      "keyframes": [
+        {
+          "time": 0.0,
+          "actual_time": 0.0,
+          "path": "m1_work/out/frames/VID-SAFE-0_te29/kf_0000_000.jpg",
+          "status": "ok"
+        },
+        {
+          "time": 3.25,
+          "actual_time": 3.2622,
+          "path": "m1_work/out/frames/VID-SAFE-0_te29/kf_0003_250.jpg",
+          "status": "ok"
+        },
+        {
+          "time": 6.5,
+          "actual_time": 6.4841,
+          "path": "m1_work/out/frames/VID-SAFE-0_te29/kf_0006_500.jpg",
+          "status": "ok"
+        }
+      ],
+      "label_source": "dataset_label",
+      "is_simulated": false,
+      "detector": "manual_annotation",
+      "sample_role": "insufficient",
+      "range_source": "manual_review",
+      "insufficient_reason": "target_not_judgeable",
+      "annotation_review": {
+        "status": "pending",
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "note": null
+      }
+    },
+    {
+      "event_id": "EVT-0_te16-001",
+      "schema_version": "1.1",
+      "source_id": "SAFE",
+      "asset_id": "VID-SAFE-0_te16",
+      "original_sample_id": "0_te16",
+      "split": "test",
+      "video_uri": "saferaw://test/0_safe_walkway_violation/0_te16.mp4",
+      "start_time": 0.0,
+      "end_time": 8.9,
+      "time_base": "original_video",
+      "offset_from_original": 0.0,
+      "camera_id": "CAM-UNKNOWN",
+      "area_id": "AREA-UNKNOWN",
+      "event_type": "walkway_violation",
+      "observations": [
+        "区间内未见可判读的人员目标"
+      ],
+      "facts": [],
+      "inferences": [],
+      "evidence_status": "insufficient",
+      "confidence": null,
+      "keyframes": [
+        {
+          "time": 0.0,
+          "actual_time": 0.0,
+          "path": "m1_work/out/frames/VID-SAFE-0_te16/kf_0000_000.jpg",
+          "status": "ok"
+        },
+        {
+          "time": 4.45,
+          "actual_time": 4.4301,
+          "path": "m1_work/out/frames/VID-SAFE-0_te16/kf_0004_450.jpg",
+          "status": "ok"
+        },
+        {
+          "time": 8.9,
+          "actual_time": 8.9006,
+          "path": "m1_work/out/frames/VID-SAFE-0_te16/kf_0008_900.jpg",
+          "status": "ok"
+        }
+      ],
+      "label_source": "dataset_label",
+      "is_simulated": false,
+      "detector": "manual_annotation",
+      "sample_role": "insufficient",
+      "range_source": "manual_review",
+      "insufficient_reason": "target_not_judgeable",
+      "annotation_review": {
+        "status": "pending",
+        "reviewed_by": null,
+        "reviewed_at": null,
+        "note": null
+      }
+    }
+  ],
+  "mode": "samples",
+  "samples_source": "m1_work/samples.csv"
+}

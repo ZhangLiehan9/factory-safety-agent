@@ -1,0 +1,7 @@
+﻿clip_id,clip_path,event_id,asset_id,video_uri,start_time,end_time,offset_from_original,duration,clip_duration_actual,duration_error,codec,backend,created_at
+CLIP-0_te21-001,m1_work/out/clips/EVT-0_te21-001.mp4,EVT-0_te21-001,VID-SAFE-0_te21,saferaw://test/0_safe_walkway_violation/0_te21.mp4,1.0,8.5,1.0,7.5,7.507,0.007,mp4v,cv2,2026-11-23T23:45:41
+CLIP-0_te23-001,m1_work/out/clips/EVT-0_te23-001.mp4,EVT-0_te23-001,VID-SAFE-0_te23,saferaw://test/0_safe_walkway_violation/0_te23.mp4,0.5,7.0,0.5,6.5,6.478,0.022,mp4v,cv2,2026-11-23T23:45:41
+CLIP-4_te5-001,m1_work/out/clips/EVT-4_te5-001.mp4,EVT-4_te5-001,VID-SAFE-4_te5,saferaw://test/4_safe_walkway/4_te5.mp4,3.8,9.8,3.8,6.0,6.017,0.017,mp4v,cv2,2026-11-23T23:45:41
+CLIP-4_te6-001,m1_work/out/clips/EVT-4_te6-001.mp4,EVT-4_te6-001,VID-SAFE-4_te6,saferaw://test/4_safe_walkway/4_te6.mp4,0.5,6.5,0.5,6.0,6.008,0.008,mp4v,cv2,2026-11-23T23:45:41
+CLIP-0_te29-001,m1_work/out/clips/EVT-0_te29-001.mp4,EVT-0_te29-001,VID-SAFE-0_te29,saferaw://test/0_safe_walkway_violation/0_te29.mp4,0.0,6.5,0.0,6.5,6.484,0.016,mp4v,cv2,2026-11-23T23:45:41
+CLIP-0_te16-001,m1_work/out/clips/EVT-0_te16-001.mp4,EVT-0_te16-001,VID-SAFE-0_te16,saferaw://test/0_safe_walkway_violation/0_te16.mp4,0.0,8.9,0.0,8.9,8.901,0.001,mp4v,cv2,2026-11-23T23:45:41
